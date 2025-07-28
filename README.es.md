@@ -61,7 +61,7 @@ carrito.
 ---
 ## Estructura del proyecto
 
-- `api/` — Controladores y rutas de la API
+- `api/` — Controladores, rutas de la API y DTOs
 - `config/` — Configuraciones generales (Swagger, seguridad, etc)
 - `domain/` — Entidades y repositorios para la base de datos
 - `infrastructure/` — interfaces y lógica de negocio
