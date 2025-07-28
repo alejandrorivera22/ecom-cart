@@ -57,7 +57,7 @@ products to the cart.
 cart or included in orders.
 ---
 ## Project Structure
-- `api/` — API controllers and route definitions
+- `api/` — API controllers, route definitions and DTOs
 - `config/` — General configurations (Swagger, security, etc.)
 - `domain/` — Entities and repositories for database interaction
 - `infrastructure/` — Interfaces and business logic
